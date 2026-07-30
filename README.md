@@ -1,4 +1,16 @@
-<img width="808" height="665" alt="image" src="https://github.com/user-attachments/assets/9c87a7e1-8c16-4740-b3ed-317319a99d49" />
+## 📱 App Screenshots
+
+<div align="center">
+
+| Screen 1 | Screen 2 | Screen 3 |
+| :---: | :---: | :---: |
+| ![Screenshot 1](screenshots/Screenshot_20260731_003802.png) | ![Screenshot 2](screenshots/Screenshot_20260731_003814.png) | ![Screenshot 3](screenshots/Screenshot_20260731_003837.png) |
+| **Screen 4** | **Screen 5** | **Screen 6** |
+| ![Screenshot 4](screenshots/Screenshot_20260731_003847.png) | ![Screenshot 5](screenshots/Screenshot_20260731_003858.png) | ![Screenshot 6](screenshots/Screenshot_20260731_003911.png) |
+| **Screen 7** | **Screen 8** | **Screen 9** |
+| ![Screenshot 7](screenshots/Screenshot_20260731_004003.png) | ![Screenshot 8](screenshots/Screenshot_20260731_004036.png) | ![Screenshot 9](screenshots/Screenshot_20260731_004056.png) |
+
+</div>
 
 
 
