@@ -79,7 +79,52 @@ GOOGLE_GEMINI_API_KEY=your_gemini_api_key_here
 # Currents API Key (Get one at currentsapi.services)
 NEWS_API_KEY=your_currents_api_key_here
 ```
+🛠️ Developer & Editing Guide
+If you want to modify, customize, or contribute to this project, here is how you can set it up, edit the code, and run it locally:
 
+1. Prerequisites
+Android Studio (Koala or latest recommended version installed with Android SDK).
+
+Kotlin & Jetpack Compose knowledge for UI modifications.
+
+2. Setting Up Local Environment
+Because sensitive files (like API keys) are excluded from version control for security, you must set up your local configuration before running the app:
+
+Clone the repository:
+
+Bash
+git clone https://github.com/harshmtr/socialpost.in-.git
+Open the project in Android Studio.
+
+Create a local.properties file in the root directory of the project (if it doesn't already exist).
+
+Add your Gemini API key inside local.properties:
+
+Properties
+GOOGLE_GEMINI_API_KEY=your_actual_api_key_here
+3. Key Project Architecture & Where to Edit
+UI & Screens (app/src/main/java/.../ui/):
+
+Contains Jetpack Compose screens like PostCreatorScreen.kt, NewsScreen.kt, and SettingsScreen.kt. Edit these files to change layouts, buttons, or add new UI components.
+
+State Management (app/src/main/java/.../viewmodel/):
+
+ViewModels handle app logic, data states, and API calls (e.g., image generation state, loading indicators).
+
+Utilities & Sharing (app/src/main/java/.../utils/):
+
+Handles external intents, clipboard syncing for LinkedIn sharing, and network helpers.
+
+Strings & Localization (app/src/main/res/values/strings.xml):
+
+All static UI text, labels, and descriptions are externalized here for clean maintenance and accessibility.
+
+4. Building and Running
+Sync your Gradle files in Android Studio (File > Sync Project with Gradle Files).
+
+Connect a physical Android device (with USB debugging enabled) or start an Android Emulator.
+
+Click the Run ('▶') button in Android Studio to build and launch the app.
 ### 3. Build & Run
 1. Clone the repository.
 2. Open the project in Android Studio.
