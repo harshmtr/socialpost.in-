@@ -1,3 +1,13 @@
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="screenshots/post_creator.png" width="28%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/news_screen.png" width="28%"/>
+</p>
+
+
+
 # SocialPost AI: Professional Tech Post Engine 🚀
 
 **SocialPost AI** is a professional-grade Android application designed for tech leaders, developers, and advocates. It streamlines the entire process of tech research and content creation by transforming raw technology news into high-performing, viral-ready LinkedIn posts powered by **Google Gemini AI**.
