@@ -1,0 +1,6 @@
+{
+  "name": "SocialPost AI",
+  "description": "Automated LinkedIn post creator powered by tech news research and Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
