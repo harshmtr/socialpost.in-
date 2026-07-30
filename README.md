@@ -1,10 +1,4 @@
-## 📱 App Screenshots
-
-<p align="center">
-  <img src="screenshots/post_creator.png" width="28%"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/news_screen.png" width="28%"/>
-</p>
+<img width="808" height="665" alt="image" src="https://github.com/user-attachments/assets/9c87a7e1-8c16-4740-b3ed-317319a99d49" />
 
 
 
